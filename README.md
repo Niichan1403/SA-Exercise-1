@@ -1,7 +1,6 @@
 # SA-Exercise-1
 
 ## What is Docker? What is Docker Compose?
-
 <details>
 <summary><h3>Docker</h3></summary>
 
@@ -13,7 +12,7 @@ By taking advantage of Docker’s methodologies for shipping, testing, and deplo
 </details>
 
 <details>
-<summary>### Docker Compose</summary>
+<summary><h3>Docker Compose</h3></summary>
 
 Docker Compose is a tool for defining and running multi-container applications. It is the key to unlocking a streamlined and efficient development and deployment experience.
 
@@ -21,3 +20,11 @@ Compose simplifies the control of your entire application stack, making it easy 
 
 Compose works in all environments; production, staging, development, testing, as well as CI workflows. It also has commands for managing the whole lifecycle of your application.
 </details>
+
+Source: [Docker](https://docs.docker.com/get-docker/) and [Docker Compose](https://docs.docker.com/compose/)
+
+## What is the difference between Unix, Linux, BSD and *nix
+
+Source: [What is the difference between Unix, Linux, BSD and GNU?](https://unix.stackexchange.com/questions/104714/what-is-the-difference-between-unix-linux-bsd-and-gnu)
+
+## Alpine vs Ubuntu
