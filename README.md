@@ -2,13 +2,13 @@
 
 1.1. `Docker`
 
-&nbsp;&nbsp;Docker is an open platform for developing, shipping, and running applications.
+&nbsp;&nbsp;&nbsp;&nbsp;Docker is an open platform for developing, shipping, and running applications.
 
-&nbsp;Docker allows you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications.
+&nbsp;&nbsp;&nbsp;&nbsp;Docker allows you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications.
 
-&nbsp;By taking advantage of Docker’s methodologies for shipping, testing, and deploying code quickly, you can significantly reduce the delay between writing code and running it in production.
+&nbsp;&nbsp;&nbsp;&nbsp;By taking advantage of Docker’s methodologies for shipping, testing, and deploying code quickly, you can significantly reduce the delay between writing code and running it in production.
 
-&nbsp;> Source: [Docker](https://docs.docker.com/get-docker/)
+&nbsp;&nbsp;&nbsp;&nbsp;> Source: [Docker](https://docs.docker.com/get-docker/)
 
 1.2. `Docker Compose`
 
