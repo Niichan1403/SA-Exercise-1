@@ -3,7 +3,7 @@
 ## What is Docker? What is Docker Compose?
 
 <details>
-<summary>### Docker</summary>
+<summary><h3>Docker</h3></summary>
 
 Docker is an open platform for developing, shipping, and running applications.
 
