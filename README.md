@@ -10,8 +10,8 @@ By taking advantage of Docker’s methodologies for shipping, testing, and deplo
 
 > Source: [Docker](https://docs.docker.com/get-docker/)
 </details>
-<details>
-<summary><h4>Docker Compose</h4></summary>
+
+`Docker Compose`
 
 Docker Compose is a tool for defining and running multi-container applications. It is the key to unlocking a streamlined and efficient development and deployment experience.
 
@@ -20,7 +20,6 @@ Compose simplifies the control of your entire application stack, making it easy 
 Compose works in all environments; production, staging, development, testing, as well as CI workflows. It also has commands for managing the whole lifecycle of your application.
 
 > Source: [Docker Compose](https://docs.docker.com/compose/)
-</details>
 
 ### What is the difference between Unix, Linux, BSD and *nix
 
