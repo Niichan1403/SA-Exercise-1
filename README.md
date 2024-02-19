@@ -10,8 +10,7 @@
 
 - By taking advantage of Docker’s methodologies for shipping, testing, and deploying code quickly, you can significantly reduce the delay between writing code and running it in production.
 
-
-Source: [Docker](https://docs.docker.com/get-docker/)
+> Source: [Docker](https://docs.docker.com/get-docker/)
 </details>
 <details>
 <summary><h3>Docker Compose</h3></summary>
@@ -20,7 +19,7 @@ Source: [Docker](https://docs.docker.com/get-docker/)
 - Compose simplifies the control of your entire application stack, making it easy to manage services, networks, and volumes in a single, comprehensible YAML configuration file. Then, with a single command, you create and start all the services from your configuration file.
 - Compose works in all environments; production, staging, development, testing, as well as CI workflows. It also has commands for managing the whole lifecycle of your application.
 
-Source: [Docker Compose](https://docs.docker.com/compose/)
+> Source: [Docker Compose](https://docs.docker.com/compose/)
 </details>
 
 ## What is the difference between Unix, Linux, BSD and *nix
