@@ -7,7 +7,7 @@
 
 - By taking advantage of Docker’s methodologies for shipping, testing, and deploying code quickly, you can significantly reduce the delay between writing code and running it in production.
 
-> Source: [Docker](https://docs.docker.com/get-docker/)
+  > Source: [Docker](https://docs.docker.com/get-docker/)
 
 1.2. `Docker Compose`
 
@@ -32,13 +32,15 @@
 ### 3. Alpine vs Ubuntu
 3.1. `Alpine`
 
-- Alpine is a lightweight Linux distribution that only occupies about 5 MB of disk space. It is designed to be simple, fast, and secure, with minimal dependencies and features. Alpine is ideal for creating small and efficient Docker images, which can reduce the build time, the storage space, and the network bandwidth. Alpine also has a built-in package manager called apk, which allows you to install additional software as needed. However, Alpine also has some drawbacks. For example, it uses a different C library than most Linux distributions, which can cause compatibility issues with some applications or libraries. Alpine also has fewer packages and documentation available than Ubuntu, which can make it harder to troubleshoot or customize.
+- Alpine is a lightweight Linux distribution that only occupies about 5 MB of disk space. It is designed to be simple, fast, and secure, with minimal dependencies and features. Alpine is ideal for creating small and efficient Docker images, which can reduce the build time, the storage space, and the network bandwidth. Alpine also has a built-in package manager called apk, which allows you to install additional software as needed.
+- However, Alpine also has some drawbacks. For example, it uses a different C library than most Linux distributions, which can cause compatibility issues with some applications or libraries. Alpine also has fewer packages and documentation available than Ubuntu, which can make it harder to troubleshoot or customize.
 
   > Source: [Alpine](https://www.linkedin.com/advice/0/how-do-you-scale-deploy-docker-alpine-ubuntu-containers)
 
 3.2. `Ubuntu`
 
-- Ubuntu is a popular and widely used Linux distribution that offers a large and diverse collection of packages, tools, and documentation. Ubuntu is well-supported and updated regularly, which can make it easier to find and fix bugs, security issues, or dependencies. Ubuntu also has a familiar and user-friendly interface, which can make it more comfortable and convenient for developers and users. However, Ubuntu also has some disadvantages. For example, it is much larger and heavier than Alpine, which can increase the build time, the storage space, and the network bandwidth. Ubuntu also has more features and services running in the background, which can consume more resources and introduce more complexity and vulnerability.
+- Ubuntu is a popular and widely used Linux distribution that offers a large and diverse collection of packages, tools, and documentation. Ubuntu is well-supported and updated regularly, which can make it easier to find and fix bugs, security issues, or dependencies. Ubuntu also has a familiar and user-friendly interface, which can make it more comfortable and convenient for developers and users.
+- However, Ubuntu also has some disadvantages. For example, it is much larger and heavier than Alpine, which can increase the build time, the storage space, and the network bandwidth. Ubuntu also has more features and services running in the background, which can consume more resources and introduce more complexity and vulnerability.
 
   > Source: [Ubuntu](https://www.linkedin.com/advice/0/how-do-you-scale-deploy-docker-alpine-ubuntu-containers)
 
