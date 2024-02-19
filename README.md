@@ -1,7 +1,7 @@
 ### 1. What is Docker? What is Docker Compose?
 
 <details open>
-  <summary>Hello</summary>
+  <summary></summary>
   World!
 </details>
 <details open>
