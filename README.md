@@ -2,7 +2,7 @@
 
 1.1. `Docker`
 
-<details open>
+<details open style="margin-left:12px">
   <summary></summary>
   
 Docker is an open platform for developing, shipping, and running applications.
