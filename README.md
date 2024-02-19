@@ -1,17 +1,16 @@
-### What is Docker? What is Docker Compose?
-<details>
-<summary><h4>Docker</h4></summary>
+### 1. What is Docker? What is Docker Compose?
 
-Docker is an open platform for developing, shipping, and running applications.
+1.1. `Docker`
 
-Docker allows you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications.
+- Docker is an open platform for developing, shipping, and running applications.
 
-By taking advantage of Docker’s methodologies for shipping, testing, and deploying code quickly, you can significantly reduce the delay between writing code and running it in production.
+- Docker allows you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications.
 
-> Source: [Docker](https://docs.docker.com/get-docker/)
-</details>
+- By taking advantage of Docker’s methodologies for shipping, testing, and deploying code quickly, you can significantly reduce the delay between writing code and running it in production.
 
-`Docker Compose`
+  > Source: [Docker](https://docs.docker.com/get-docker/)
+
+1.2. `Docker Compose`
 
 Docker Compose is a tool for defining and running multi-container applications. It is the key to unlocking a streamlined and efficient development and deployment experience.
 
