@@ -21,11 +21,11 @@
 
 ### 2. What is the difference between Unix, Linux, BSD and *nix? 
 
-- *nix systems, often referred to as "Unix-like," are based on the POSIX standards.
-- Unix and BSD are older implementations of POSIX, with varying degrees of closed-source nature. BSD, despite being considered less open by some, has more permissive licensing compared to Unix.
-- Linux is a newer entrant, primarily a kernel, often considered a full OS when combined with GNU tools and other components.
-- The main differences among Unix, Linux, and BSD lie in their underlying ideals and implementations of POSIX standards. While they solve similar problems, they may approach them differently. Overall, they are interchangeable at a basic level.
-- MacOS is a POSIX-compliant operating system.
+- `*nix` systems, often referred to as "Unix-like," are based on the `POSIX` standards.
+- `Unix` and `BSD` are older implementations of `POSIX`, with varying degrees of closed-source nature. `BSD`, despite being considered less open by some, has more permissive licensing compared to `Unix`.
+- `Linux` is a newer entrant, primarily a kernel, often considered a full OS when combined with `GNU tools` and other components.
+- The main differences among `Unix`, `Linux`, and `BSD` lie in their underlying ideals and implementations of `POSIX` standards. While they solve similar problems, they may approach them differently. Overall, they are interchangeable at a basic level.
+- `MacOS` is a `POSIX-compliant` operating system.
 
   > Source: [What is the difference between Unix, Linux, BSD and GNU?](https://unix.stackexchange.com/questions/104714/what-is-the-difference-between-unix-linux-bsd-and-gnu)
 
