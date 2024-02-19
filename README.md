@@ -1,5 +1,14 @@
 ### 1. What is Docker? What is Docker Compose?
 
+<details open>
+  <summary>Hello</summary>
+  World!
+</details>
+<details open>
+  <summary>Hello</summary>
+  World!
+</details>
+
 1.1. `Docker`
 
 Docker is an open platform for developing, shipping, and running applications.
